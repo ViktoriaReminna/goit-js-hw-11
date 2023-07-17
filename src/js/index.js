@@ -8,7 +8,7 @@ import SimpleLightbox from 'simplelightbox';
 
 import 'simplelightbox/dist/simple-lightbox.min.css';
 
-const { default: axios } = require('axios');
+// const { default: axios } = require('axios');
 
 const API_KEY = '38291205-6302b6893cb52f44d3517b0f7';
 
