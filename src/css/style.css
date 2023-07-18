@@ -23,7 +23,7 @@ body {
 }
 
 button {
-  /* margin-top: 15px; */
+  margin-top: 15px;
   border: 1px solid transparent;
   border-radius: 2px;
   cursor: pointer;
