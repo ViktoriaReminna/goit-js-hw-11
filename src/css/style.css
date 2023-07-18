@@ -23,6 +23,7 @@ body {
 }
 
 button {
+  margin-top: 15px;
   border: 1px solid transparent;
   border-radius: 2px;
   cursor: pointer;
@@ -67,7 +68,6 @@ button {
 }
 
 .search-form button {
-  margin-top: 15px;
   max-width: 9.375rem;
   height: 2.5rem;
   cursor: pointer;
